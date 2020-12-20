@@ -1,2 +1,3 @@
 # AutoVideoPlayonYT
-After entering the video name video will play on youtube within 2-3 sec .
+Enter video name you want to play, 
+After entering video will play on youtube within 2-3 sec .
